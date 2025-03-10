@@ -29,3 +29,7 @@
 
 en:
   hello: "Hello world"
+  task:
+    destroy:
+      message: "The task was success removed."
+    not_found: "The task with id: %{id}, was not found."
